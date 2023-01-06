@@ -41,4 +41,4 @@ const generateImage = async (req, res) => {
 }
 
 
-module.exports = generateImage;
+module.exports = { generateImage };
